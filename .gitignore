@@ -1,2 +1,4 @@
 ecmascript/*/babel-output/
 ecmascript/*/node_modules/
+ecmascript/babel-output
+ecmascript/node_modules
